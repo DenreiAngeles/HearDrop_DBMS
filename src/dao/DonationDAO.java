@@ -103,7 +103,7 @@ public class DonationDAO extends BaseDAO {
         boolean donorUpdated = update(donorQuery, donation.getDonorId(), donation.getDonorUsername(), donation.getId());
 
         boolean statusUpdated = update(statusQuery, donation.getStatus(), donation.getRecipientUsername(), 
-                                       Timestamp.valueOf(donation.getPickupDatetime()), donation.getId());
+                                       donation.getPickupDatetime(), donation.getId());
 
         return donationUpdated && donorUpdated && statusUpdated;
     }

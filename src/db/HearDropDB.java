@@ -15,7 +15,7 @@ public class HearDropDB {
     private static final String DBNAME = "HearDrop"; 
     private static String USER = "root";            //you can change this to what you use in MySQL here for ease of access, but I added a feature so you can change this via the program.
     private static String PASSWORD = "password";    //same for this (although I highly advise you change it both here now).
-    private static final String INIT_FILE = "C:\\Users\\denre\\OneDrive\\Desktop\\HearDrop\\src\\init.sql"; //change this to the filepath of init.sql on your device.
+    private static final String INIT_FILE = "C:\\Users\\denre\\OneDrive\\Desktop\\HearDrop_DBMS\\src\\db\\init.sql"; //change this to the filepath of init.sql on your device.
     static Scanner scan = new Scanner(System.in);
 
     public static Connection getConnection() {

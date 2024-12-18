@@ -38,7 +38,7 @@ CREATE TABLE `donation` (
 
 LOCK TABLES `donation` WRITE;
 /*!40000 ALTER TABLE `donation` DISABLE KEYS */;
-INSERT INTO `donation` VALUES (1,'Canned Food','10 cans of mixed vegetables',10,'123 Main St.'),(2,'Blankets','5 winter blankets',5,'456 Elm St.'),(3,'Water Bottles','20 bottles of clean drinking water',20,'789 Pine St.'),(4,'Winter Coats','3 adult-size winter coats',3,'321 Oak St.'),(5,'Books','A collection of children’s storybooks',15,'654 Maple St.');
+INSERT INTO `donation` VALUES (1,'Canned Food','10 cans of mixed vegetables',10,'123 Main St.'),(2,'Blankets','5 winter blankets',5,'456 Elm St.'),(3,'Water Bottles','20 bottles of clean drinking water',20,'789 Pine St.'),(4,'Winter Coats','3 adult-size winter coats',3,'321 Oak St.'),(5,'Books',"A collection of children's storybooks",15,'654 Maple St.');
 /*!40000 ALTER TABLE `donation` ENABLE KEYS */;
 UNLOCK TABLES;
 

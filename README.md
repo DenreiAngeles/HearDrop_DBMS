@@ -261,7 +261,7 @@ You must have downloaded and has set-up the following in order to continue:
    - Make sure to add the **mysql connector for java** on the **referenced libraries**.
    - Dropdown `src` from the explorer and find and dropdown the `Database` package. (Optional but highly advised)
    - Click on `HearDropDB.java` and update to your MySQL credentials of `USER` and `PASSWORD`. (Optional but highly advised)
-   - Modify the `INIT_FILE` to the directory of the init.sql on your device.
+   - Modify the `INIT_FILE` to the directory of the init.sql on your device. **(REQUIRED)**
    - Find and dropdown `Main` package.
 3. Compile and run the program:
    - Click `Main.java`, then compile and run it.
