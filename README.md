@@ -388,15 +388,10 @@ This project contains seven (7) packages and fifteen (15) modules all working to
 ## About the Developer
 ![About the developer](images/12.png)
 
-Hey there! I'm **Denrei**, the sole developer behind HearDrop. HearDrop was born because of my Object-Oriented Programming (OOP) final project. I was tasked to create a console program that would adhere OOP principles while attaining Sustainable Development Goals. So I did, and it has been a blast creating this project that could potentially be able to help not only me from my academics but also to the community.
-
-I designed HearDrop to facilitate resource sharing within communities, promoting sustainability and helping those in need. Although it only still has the basic components that I have planned on making, I'm passionate about developing it, and finishing it up to this point reflects that commitment.
-
-Developing this project has taught me a lot about the intricacies of software development, from database management to logic. Each step has been a learning experience and at times has really put my patience to the test, and it has pushed me to refine my skills and think critically about how best to serve the needs of users.
-
-I think I have said too much, anyway, thank you for taking the time to explore my project! This project represents not just a culmination of my coursework, but a stepping stone towards future endeavors in tech and community service and I hope by the time I come back here again, I have improved and be able to do better.
-
-Best regards, **Denrei Samuel Angeles**
+Hey there! I'm **Denrei**, the sole developer behind HearDrop. 
+Contact me here:
+Email: 23-06835@g.batstate-u.edu.ph
+Github: https://github.com/DenreiAngeles
 
 
 [Back to Top](#project-overview)
