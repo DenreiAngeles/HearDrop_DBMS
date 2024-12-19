@@ -389,8 +389,11 @@ This project contains seven (7) packages and fifteen (15) modules all working to
 ![About the developer](images/12.png)
 
 Hey there! I'm **Denrei**, the sole developer behind HearDrop. 
+
 Contact me here:
+
 Email: 23-06835@g.batstate-u.edu.ph
+
 Github: https://github.com/DenreiAngeles
 
 
